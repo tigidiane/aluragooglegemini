@@ -1,4 +1,4 @@
-## **README.md Imersão Dev com Googel Gemini**
+## **Imersão Dev com Googel Gemini**
 
 ### **Boom Magazine: A Busca pela Notícia Perfeita!**
 
