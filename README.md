@@ -1,4 +1,4 @@
-## **Imersão Dev com Googel Gemini**
+## **Imersão Dev com Google Gemini**
 
 ### **Boom Magazine: A Busca pela Notícia Perfeita!**
 
